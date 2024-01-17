@@ -5,6 +5,8 @@ This audit is pretty easy and straightforward and aims to teach us :
   - how to realize a first cybersecurity project and to include it in our portfolio
   - how a security audit is made and what are the questions and matters to look for
 
+In this project I reviewed the scope, growls and risk assessment report to understand what...
+
 <h2>Scenario:</h2>
 
 *This scenario is based on a fictional company.*
