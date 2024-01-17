@@ -5,7 +5,8 @@ This audit is pretty easy and straightforward and aims to teach us :
   - how to realize a first cybersecurity project and to include it in our portfolio
   - how a security audit is made and what are the questions and matters to look for
 
-In this project I reviewed the scope, growls and risk assessment report to understand what...
+In this project I reviewed the scope, goals and risk assessment report to understand what should be included in a security audit report and compared them to the situation laid out in the scenario. Errors or lack of precisions within the report were corrected. 
+Then, I took the Controls and compliance checklist to assess whether or not appropriate controls were in place and relevant laws and regulations were respected (mainly Payment Card Industry Data Security Standard, GDPR and System and Organizations Controls type 1 & 2). With those elements in mind I could then make suggestions as to what controls the company should improve or put into place to address the compliance and security issues.
 
 <h2>Scenario:</h2>
 
